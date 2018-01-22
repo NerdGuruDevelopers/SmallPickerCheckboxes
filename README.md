@@ -5,11 +5,11 @@ I wanted a small snipet of code which would allow me to create custom checkboxes
 
 <div style="text-align:center">
     
-![Example Weekdays](http://nerd.guru/screenshots/chrome_2018-01-22_09-10-41.png)
+<img src="http://nerd.guru/screenshots/chrome_2018-01-22_09-10-41.png" />
 
-![Example Hours](http://nerd.guru/screenshots/chrome_2018-01-22_09-11-13.png)
+<img src="http://nerd.guru/screenshots/chrome_2018-01-22_09-11-13.png" />
 
-![Example Months](http://nerd.guru/screenshots/chrome_2018-01-22_09-11-38.png)
+<img src="http://nerd.guru/screenshots/chrome_2018-01-22_09-11-38.png" />
 
 </div>
 
@@ -26,5 +26,5 @@ Output:
 Prints out 7 custom checkboxes, one for each day of the week. Each is selectable or deselectable by the user.
 
 <div style="text-align:center">
-![Example Weekdays](http://nerd.guru/screenshots/chrome_2018-01-22_09-10-41.png)
+<img src="http://nerd.guru/screenshots/chrome_2018-01-22_09-10-41.png" />
 </div>
