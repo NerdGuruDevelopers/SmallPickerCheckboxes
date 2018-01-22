@@ -33,6 +33,6 @@ Output:
 
 Prints out 7 custom checkboxes, one for each day of the week. Each is selectable or deselectable by the user.
 
-<div style="text-align:center">
+<div align="center">
 <img src="http://nerd.guru/screenshots/chrome_2018-01-22_09-10-41.png" />
 </div>
