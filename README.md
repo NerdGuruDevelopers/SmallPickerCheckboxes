@@ -9,13 +9,13 @@ I wanted a small snipet of code which would allow me to create custom checkboxes
 
 <hr>
 
-<div style="text-align:center">
+<div align="center>
     <img src="http://nerd.guru/screenshots/chrome_2018-01-22_09-11-13.png" />
 </div>
 
 <hr>
 
-<div style="text-align:center">
+<div align="center">
     <img src="http://nerd.guru/screenshots/chrome_2018-01-22_09-11-38.png" />
 </div>
 
