@@ -36,3 +36,7 @@ Prints out 7 custom checkboxes, one for each day of the week. Each is selectable
 <div align="center">
 <img src="http://nerd.guru/screenshots/chrome_2018-01-22_09-10-41.png" />
 </div>
+
+<hr>
+
+Text put here for google findability reasons: CSS for checkbox date picking, CSS for checkbox time picking, CSS for checkbox months, CSS for hour checkboxes, CSS checkbox datetime, CSS checkbox hours, CSS checkbox minutes, CSS checkbox seconds, CSS checkbox days, CSS checkbox days of the week, CSS checkbox months
