@@ -7,19 +7,19 @@ I wanted a small snipet of code which would allow me to create custom checkboxes
     <img src="http://nerd.guru/screenshots/chrome_2018-01-22_09-10-41.png" />
 </div>
 
-<br><hr>
+<hr>
 
 <div style="text-align:center">
     <img src="http://nerd.guru/screenshots/chrome_2018-01-22_09-11-13.png" />
 </div>
 
-<br><hr>
+<hr>
 
 <div style="text-align:center">
     <img src="http://nerd.guru/screenshots/chrome_2018-01-22_09-11-38.png" />
 </div>
 
-<br><hr>
+<hr>
 
 HTML (With Smarty) Usage Example:
 
