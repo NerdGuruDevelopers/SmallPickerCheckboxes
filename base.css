@@ -1,0 +1,43 @@
+input.icheck {
+	visibility:hidden;
+}
+
+input.icheck:after {
+	font-weight: bold;
+	font-family: monospace;
+	visibility: visible;
+  font-size:14px;
+	height: 25px;
+  padding:5px 10px;
+  border-radius: 5px;
+  position: relative;
+	cursor:pointer;
+  background-color:#E8E8E8;
+  display: inline-block;
+}
+
+input.icheck:checked:after {
+	background-color: rgb(51, 122, 183);
+	color: #fff;
+}
+
+input.icheck[data-value]:after {
+	content: attr(data-value);
+}
+
+input.icheck[data-width]:after {
+	padding:5px 8px;
+}
+
+input.icheck[data-width="1"]:after {
+	padding:5px 12px;
+}
+
+.icheck_wrapper {
+	display:inline;
+	padding-right:18px;
+}
+
+.icheck_wrapper[data-width="3"] {
+	padding-right:25px;
+}
