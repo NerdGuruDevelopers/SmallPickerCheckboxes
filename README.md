@@ -3,11 +3,13 @@ A CSS snippet for creating custom small checkboxes for things like days, months,
 
 I wanted a small snipet of code which would allow me to create custom checkboxes on the fly. Ideally one that would work well with for loops and date time selections. Supports strings up to 3 characters currently. Here are some examples of what you can do with this CSS:
 
+<div style="text-align:center">
 ![Example Weekdays](http://nerd.guru/screenshots/chrome_2018-01-22_09-10-41.png)
 
 ![Example Hours](http://nerd.guru/screenshots/chrome_2018-01-22_09-11-13.png)
 
 ![Example Months](http://nerd.guru/screenshots/chrome_2018-01-22_09-11-38.png)
+</div>
 
 HTML (With Smarty) Usage Example:
 
@@ -21,4 +23,6 @@ Output:
 
 Prints out 7 custom checkboxes, one for each day of the week. Each is selectable or deselectable by the user.
 
+<div style="text-align:center">
 ![Example Weekdays](http://nerd.guru/screenshots/chrome_2018-01-22_09-10-41.png)
+</div>
